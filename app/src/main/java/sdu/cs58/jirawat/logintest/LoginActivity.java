@@ -31,7 +31,7 @@ public class LoginActivity extends AppCompatActivity {
 
                 nameString = nameEditText.getText().toString().trim();
 
-                Toast.makeText(getApplicationContext(),"Hello "+nameString,Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"Hello  "+nameString,Toast.LENGTH_SHORT).show();
             }
         });
 
